@@ -38,7 +38,7 @@ h2 {
 .hobby {
     width: 200px;
     height: 600px;
-    border: 2px blue double;
+    border: 2px  pink;
     background-color: darkseagreen;
     background-image: linear-gradient(yellow, seagreen);
 }
